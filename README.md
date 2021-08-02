@@ -4,7 +4,7 @@
 
 About Contentstack: Contentstack is a headless CMS with an API-first approach that puts content at the centre. It is designed to simplify the process of publication by separating code from content.
 
-About this project: Create a professional website using Next.js and Contentstack.
+About this project: Create a professional website using Next.js and Contentstack..
 
 
 ![banner](https://images.contentstack.io/v3/assets/bltbbf9dda285996efa/blt3d798915751a9ed3/5f169722146d33574b7a252d/sales-demo-nextjs-ss.png "banner.png")
